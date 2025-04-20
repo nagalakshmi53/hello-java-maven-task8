@@ -1,0 +1,11 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------------< com.example:hello >----------------------
+[INFO] Building hello 1.0
+[INFO] --------------------------------[ jar ]-------------------------------
+[INFO] Compiling 1 source file to /hello-java-maven/target/classes
+[INFO] 
+[INFO] BUILD SUCCESS
+[INFO] Total time: 1.234 s
+[INFO] Finished at: 2025-04-20T15:30:00+05:30
+[INFO] ------------------------------------------------------------------------
